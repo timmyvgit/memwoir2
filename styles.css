@@ -22,15 +22,15 @@ body {
     border-radius: 15px;
 }
 .prompt-container {
-    color: white;
-    background-color: darkslategrey;
+    color: black;
+    background-color: rgb(90, 90, 90);
     box-shadow: 0 0 30px;
     /* height: 100; */
     width: 80%;
     max-width: 600px;
     background-size: cover;
     background-position: center;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 15px;
